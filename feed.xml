@@ -6,6 +6,14 @@
     <description>Your personal read-aloud podcast</description>
     <language>en-us</language>
     <itunes:image href="https://tre-jones.github.io/tres-reads/cover.png" />
+    <itunes:author>Tre’s Reads</itunes:author>
+    <itunes:summary>Your personal read-aloud podcast of selected articles.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tre</itunes:name>
+      <itunes:email>valejo@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
 
     <item>
       <title>Best Of Moltbook</title>
