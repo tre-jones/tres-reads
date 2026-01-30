@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tre’s Reads</title>
+    <link>https://tre-jones.github.io/tres-reads/</link>
+    <description>Your personal read-aloud podcast</description>
+    <language>en-us</language>
+    <itunes:image href="https://tre-jones.github.io/tres-reads/cover.png" />
+  </channel>
+</rss>
