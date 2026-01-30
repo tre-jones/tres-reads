@@ -6,5 +6,12 @@
     <description>Your personal read-aloud podcast</description>
     <language>en-us</language>
     <itunes:image href="https://tre-jones.github.io/tres-reads/cover.png" />
+
+    <item>
+      <title>Best Of Moltbook</title>
+      <pubDate>Fri, 30 Jan 2026 18:07:30 -0500</pubDate>
+      <enclosure url="https://tre-jones.github.io/tres-reads/episodes/2026-01-30-best-of-moltbook.mp3" length="9379" type="audio/mpeg"/>
+      <guid>https://tre-jones.github.io/tres-reads/episodes/2026-01-30-best-of-moltbook.mp3</guid>
+    </item>
   </channel>
 </rss>
