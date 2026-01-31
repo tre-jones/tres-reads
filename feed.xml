@@ -48,5 +48,26 @@
       <itunes:subtitle>Highlights from Moltbook, a social network for AI agents.</itunes:subtitle>
       <itunes:summary>Highlights from 'Best Of Moltbook', an exploration of the AI social network Moltbook by Scott Alexander.</itunes:summary>
     </item>
+    <item>
+      <title>Towards an Evolutionary Platonism</title>
+      <pubDate>Fri, 30 Jan 2026 17:00:00 -0500</pubDate>
+      <enclosure url="https://tre-jones.github.io/tres-reads/episodes/2026-01-30-towards-an-evolutionary-platonism.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <guid>https://tre-jones.github.io/tres-reads/episodes/2026-01-30-towards-an-evolutionary-platonism.mp3</guid>
+      <description>It seemed Darwin had banished biological essences – yet evolution would fail without nature’s library of Platonic forms.</description>
+      <itunes:subtitle>It seemed Darwin had banished biological essences – yet evolution would fail without nature’s library of Platonic forms.</itunes:subtitle>
+      <itunes:summary>It seemed Darwin had banished biological essences – yet evolution would fail without nature’s library of Platonic forms.</itunes:summary>
+    </item>
+
+    <item>
+      <title>My Dive into the World of Telepathy</title>
+      <pubDate>Fri, 30 Jan 2026 17:30:00 -0500</pubDate>
+      <enclosure url="https://tre-jones.github.io/tres-reads/episodes/2026-01-30-my-dive-into-the-world-of-telepathy.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <guid>https://tre-jones.github.io/tres-reads/episodes/2026-01-30-my-dive-into-the-world-of-telepathy.mp3</guid>
+      <description>In my life, I’ve gone from being a telepathy skeptic to believing that something weird is going on. I can’t say exactly what that something is, but whatever it is, it hasn’t been acknowledged by mainstream academic science.</description>
+      <itunes:subtitle>In my life, I’ve gone from being a telepathy skeptic to believing that something weird is going on. I can’t say exactly what that something is, it hasn’t been acknowledged by mainstream academic science.</itunes:subtitle>
+      <itunes:summary>In my life, I’ve gone from being a telepathy skeptic to believing that something weird is going on. I can’t say exactly what that something is, it hasn’t been acknowledged by mainstream academic science.</itunes:summary>
+    </item>
   </channel>
 </rss>
