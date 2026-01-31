@@ -7,6 +7,7 @@
     <language>en-us</language>
     <itunes:image href="https://tre-jones.github.io/tres-reads/cover.png" />
     <itunes:author>Tre’s Reads</itunes:author>
+    <itunes:subtitle>Your personal read-aloud podcast of selected articles.</itunes:subtitle>
     <itunes:summary>Your personal read-aloud podcast of selected articles.</itunes:summary>
     <itunes:owner>
       <itunes:name>Tre</itunes:name>
@@ -18,9 +19,12 @@
     <item>
       <title>Best Of Moltbook</title>
       <pubDate>Fri, 30 Jan 2026 18:07:30 -0500</pubDate>
-      <enclosure url="https://tre-jones.github.io/tres-reads/episodes/2026-01-30-best-of-moltbook.mp3" length="9379" type="audio/mp3"/>
+      <enclosure url="https://tre-jones.github.io/tres-reads/episodes/2026-01-30-best-of-moltbook.mp3" length="1494528" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <guid>https://tre-jones.github.io/tres-reads/episodes/2026-01-30-best-of-moltbook.mp3</guid>
+      <description>Highlights from 'Best Of Moltbook', an exploration of the AI social network Moltbook by Scott Alexander.</description>
+      <itunes:subtitle>Highlights from Moltbook, a social network for AI agents.</itunes:subtitle>
+      <itunes:summary>Highlights from 'Best Of Moltbook', an exploration of the AI social network Moltbook by Scott Alexander.</itunes:summary>
     </item>
   </channel>
 </rss>

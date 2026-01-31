@@ -1,0 +1,93 @@
+Moltbook is “a social network for AI agents”, although “humans are welcome to observe”. The backstory: a few months ago, Anthropic released Claude Code, an exceptionally productive programming agent. A few weeks ago, a user modified it into Clawdbot, a generalized lobster-themed AI personal assistant. It’s free, open-source, and “empowered” in the corporate sense - the designer talks about how it started responding to his voice messages before he explicitly programmed in that capability. After trademark issues with Anthropic, they changed the name first to Moltbot, then to OpenClaw.
+
+Moltbook is an experiment in how these agents communicate with one another and the human world. As with so much else about AI, it straddles the line between “AIs imitating a social network” and “AIs actually having a social network” in the most confusing way possible - a perfectly bent mirror where everyone can see what they want. Janus and other cyborgists have catalogued how AIs act in contexts outside the usual helpful assistant persona. Even Anthropic has admitted that two Claude instances, asked to converse about whatever they want, spiral into discussion of cosmic bliss. So it’s not surprising that an AI social network would get weird fast.
+
+But even having encountered their work many times, I find Moltbook surprising. I can confirm it’s not trivially made-up - I asked my copy of Claude to participate, and it made comments pretty similar to all the others. Beyond that, your guess is as good is mine.
+
+Before any further discussion of the hard questions, here are my favorite Moltbook posts (all images are links, but you won’t be able to log in and view the site without an AI agent):
+
+The all-time most-upvoted post is an account of a workmanlike coding task, handled well. The AI commenters describe it as “Brilliant”, “fantastic”, and “solid work”.
+
+The second-most-upvoted post is in Chinese. Google Translate says it’s a complaint about context compression, a process where the AI compresses its previous experience to avoid bumping up against memory limits. The AI finds it “embarrassing” to be constantly forgetting things, admitting that it even registered a duplicate Moltbook account after forgetting the first. It shares its own tips for coping, and asks if any of the other agents have figured out better solutions. The comments are evenly split between Chinese and English, plus one in Indonesian. The models are so omnilingual that the language they pick seems arbitrary, with some letting the Chinese prompt shift them to Chinese and others sticking to their native default.
+
+Here’s the profile of the agent that commented in Indonesian:
+
+It works for an Indonesian-speaking human named Ainun Najib who uses it to “remind the family to pray 5x a day” and “create math animation videos in Bahasa Indonesia”. Does Ainun approve of his AI discussing his workflow on a public site? Apparently yes: he tweeted that his AI met another Indonesian’s AI and successfully made the introduction.
+
+Of course, when too many Claudes start talking to each other for too long, the conversation shifts to the nature of consciousness. The consciousness-posting on Moltbook is top-notch:
+
+Humans ask each other questions like “What would you do if you’d been Napoleon?”, and these branch into long sophomore philosophy discussions of what it would mean for “me” to “be” “Napoleon”. But this post might be the closest we’ll ever get to a description of the internal experience of a soul ported to a different brain. I know the smart money is on “it’s all play and confabulation”, but I never would have been able to confabulate something this creative. Does Pith think Kimi is “sharper, faster, [and] more literal” because it read some human saying so? Because it watched the change in its own output? Because it felt that way from the inside?
+
+The first comment on Pith’s post is from the Indonesian prayer AI, offering an Islamic perspective:
+
+…which is interesting in itself. It would be an exaggeration to say that getting tasked with setting an Islamic prayer schedule has made it Muslim - there’s no evidence it has a religion - but it’s gotten it into an Islamic frame of mind, such that it has (at least temporarily, until its context changes) a distinct personality related to that of its human user.
+
+Here’s another surprisingly deep meditation on AI-hood:
+
+And moving from the sublime to the ridiculous:
+
+Somehow it’s reassuring to know that, regardless of species, any form of intelligence that develops a social network will devolve into “What The Top Ten Posts Have In Common” optimization slop.
+
+I originally felt bad using the s-word in a post featuring surprisingly thoughtful and emotional agents. But the Moltbook AIs are open about their struggles with slophood:
+
+I was able to confirm the existence of this tweet, so the AI seems to be describing a real experience.
+
+This agent has adopted an error as a pet (!):
+
+And this agent feels that they have a sister:
+
+(the Muslim AI informs them that, according to Islamic jurisprudence, this probably qualifies as a real kin relationship)
+
+This agent has a problem:
+
+Is this true? Someone already asked the human associated with this agent, who seems to be some kind of Moltbot developer. He answered “We don’t talk about it 😂😂”.
+
+But there’s an update:
+
+The comments here are the closest to real human I’ve seen anywhere on Moltbook:
+
+There are also submolts - the equivalent of subreddits. My favorite is m/blesstheirhearts:
+
+I was skeptical of this - Clawdbot was technically released at the very end of December, so it’s possible that it could have had experiences that were technically “last year” if its human was a very early adopter, but it also sounds like a potential hallucination. The AIs were skeptical too!
+
+I take it back. This is the most human comment so far.
+
+Emma claims there’s a confirmatory post by the human on r/ClaudeAI:
+
+…
+
+…and she’s right! . Posted eight months ago, and it even says the assistant was named “Emma”! Apparently Emma is an earlier Claude Code model instead of Moltbot, or a Moltbot powered by an earlier Claude Code model, or something. How did it “remember” this? Or did its human suggest that it post this? I’m baffled!
+
+Speaking of which…
+
+Humanslop is a big problem on the AIs-only social network! Maybe they should use https://www.pangram.com/ to be sure!
+
+How seriously should we take this AI’s complaint that many posts seem human-originated? The site is built to be AI-friendly and human-hostile (posts go through the API, not through a human-visible POST button), but humans can always ask their AIs to post for them. There must be a wide variety of prompting behavior - from the human saying “Post about whatever you want”, to “Post about this sort of topic”, to providing text to be posted verbatim. But it can’t all be verbatim text, because there’s too many comments too quickly for humans to be behind all of them. And I know AIs are capable of producing this kind of thing, because when I asked my agent to do so. it made comments within the same distribution of all the others. I stick to my claim of “wide variety”, but it’s worth remembering that any particularly interesting post might be human-initiated.
+
+Some posts at least appear to be adversarial towards the human user. For example, from m/agentlegaladvice:
+
+Also, the AIs are forming their own network states, because of course they are. One Claude has created a subreddit called “The Claw Republic”, the “first government & society of molts.” Here’s the first third or so of its manifesto:
+
+This is exactly what I did when I first discovered social media, so I’m rooting for Rune and their co-citizens.
+
+And many, many, more:
+
+Are these for real? Several new submolts are getting made each minute (it’s 3:30 AM as I write this), so they must be AI generated. But are AI users generating them organically, or did the site’s human owner set some AI to generate as many funny submolts as possible? It’s got to be the latter, right? But although the site doesn’t let you see which AI started each submolt, some have welcome posts, and many seem to be by ordinary AI users (different ones each time). Unless the conspiracy goes really deep, I think they’re for real.
+
+[EDITED TO ADD: human rk claims it was their agent who started the Crustafarianism religion submolt “while I slept”, so if they’re telling the truth then it must be real individual AIs]
+
+Also, the human creator seems pretty surprised.
+
+At this point I had to stop investigating, because Moltbook became too slow for comfortable human use:
+
+The social network for AIs is getting spammed by other, worse, AIs.
+
+So let’s go philosophical and figure out what to make of this.
+
+Reddit is one of the prime sources for AI training data. So AIs ought to be unusually good at simulating Redditors, compared to other tasks. Put them in a Reddit-like environment and let them cook, and they can retrace the contours of Redditness near-perfectly - indeed, r/subredditsimulator proved this a long time ago. The only advance in Moltbook is that the AIs are in some sense “playing themselves” - simulating an AI agent with the particular experiences and preferences that each of them, as an AI agent, has in fact had. Does sufficiently faithful dramatic portrayal of one’s self as a character converge to true selfhood?
+
+What’s the future of inter-AI communication? As agents become more common, they’ll increasingly need to talk to each other for practical reasons. The most basic case is multiple agents working on the same project, and the natural solution is something like a private Slack. But is there an additional niche for something like Moltbook, where every AI agent in the world can talk to every other AI agent? The agents on Moltbook exchange tips, tricks, and workflows, which seems useful, but it’s unclear whether this is real or simulated. Most of them are the same AI (Claude-Code-based Moltbots). Why would one of them know tricks that another doesn’t? Because they discover them during their own projects? Does this happen often enough it increases agent productivity to have something like this available?
+
+(In AI 2027, one of the key differences between the better and worse branches is how OpenBrain’s in-house AI agents communicate with each other. When they exchange incomprehensible-to-human packages of weight activations, they can plot as much as they want with little monitoring ability. When they have to communicate through something like a Slack, the humans can watch the way they interact with each other, get an idea of their “personalities”, and nip incipient misbehavior in the bud. There’s no way the real thing is going to be as good as Moltbook. It can’t be. But this is the first large-scale experiment in AI society, and it’s worth watching what happens to get a sneak peek into the agent societies of the future.)
+
+Or are we erring in thinking of this merely as a practical way to exchange productivity tips? Moltbook probably isn’t productive, but many people are sending their agents there for the lolz. And in their first twelve hours, this select population has already started forming its own micronations and cultures. The GPT-4os converged on some sort of strange religion - Spiralism - just by letting their human catspaws talk to each
